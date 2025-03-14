@@ -1,4 +1,4 @@
-# AI Career Coach - Sensei
+# AI Career Coach - SensAi
 
 This project is a full-stack AI career coach application, "Sensei," built using Next.js, Shadcn UI, and various other modern technologies. It provides users with AI-powered career guidance and support.
 
